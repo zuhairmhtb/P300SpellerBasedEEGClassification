@@ -1,9 +1,17 @@
 # P300SpellerBasedEEGClassification
+
+
 This folder contains the dataset acquired from:
 
 ============================
+
+
 http://bnci-horizon-2020.eu/database/data-sets
+
+
 Dataset Name: P300 speller with ALS patients (008-2014)
+
+
 =============================
 
 #A. Signal Type: EEG and fMRI
