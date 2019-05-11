@@ -1,0 +1,9 @@
+DOI of the publications:
+
+1. https://doi.org/10.3389/fnhum.2013.00732
+
+Attention and P300-based BCI performance in people with amyotrophic lateral sclerosis
+
+2. https://doi.org/10.1088/1741-2560/3/4/007
+
+A comparison of classification techniques for P300 Speller
