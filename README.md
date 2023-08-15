@@ -18,8 +18,9 @@ Dataset Name: P300 speller with ALS patients (008-2014)
 Files:
 
 1. README.pdf : Contains the description of the dataset [Downloaded]
-2. Publications: A folder containing relavant papers and recosntructed algorithm that used the dataset and got published
+2. Publications: A folder containing relavant papers.
 3. Data Files: A folder containing the main data files.
+4. EEGAnalysis.ipynb: Analysis of the dataset and reconstruction of the algorithm mentioned in paper.
 
 
 =======================================================
