@@ -20,7 +20,8 @@ Files:
 1. README.pdf : Contains the description of the dataset [Downloaded]
 2. Publications: A folder containing relavant papers.
 3. Data Files: A folder containing the main data files.
-4. EEGAnalysis.ipynb: Analysis of the dataset and reconstruction of the algorithm mentioned in paper.
+4. EEGAnalysis.ipynb: Analysis of the dataset and reconstruction of the algorithm mentioned in paper. **(This file is deprecated and no longer correct. As a result this has been removed from this repository and replaced with EEGAnalysis.ipynb in the root folder)**
+
 
 
 =======================================================
